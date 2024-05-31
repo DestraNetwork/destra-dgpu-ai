@@ -11,7 +11,7 @@ Destra-DGPU-AI is a Python package for connecting to the Destra GPU Network to t
 - Ubuntu system
 - Stable internet connection
 - Sepolia RPC Endpoint
-
+- Destra GPU Registry - to connect to head node ([deployed on testnet](https://sepolia.etherscan.io/address/0x9B1B198C5C671F8B5a67721cC4Fff5E9F020D505))
 
 
 ## Setup Instructions
