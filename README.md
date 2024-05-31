@@ -133,7 +133,7 @@ def preprocess(data):
 
 tokenized_dataset = preprocess(dataset)
 
-# Put large objects in Ray object store
+# Put large objects in Ray object store (Optional)
 model_ref = destra_ray.put(model)
 dataset_ref = destra_ray.put(tokenized_dataset)
 
